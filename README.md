@@ -1,4 +1,4 @@
-theme: minima
+# theme: minima
 # Light-Ball-Runner
 
 Unity Engine using C#
