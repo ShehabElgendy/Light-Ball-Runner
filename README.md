@@ -1,6 +1,6 @@
 # Light-Ball-Runner
 
-Unity Engine using C#
+Unity Engine / C#
 -Light Ball Runner is an infinite runner inspired by arcade games where you have to win by the highest score.
 -This project is intended to help ALX students see a good example of implementing C# using unity engine for creating a simple 2D game
 -This project is defined as independent
